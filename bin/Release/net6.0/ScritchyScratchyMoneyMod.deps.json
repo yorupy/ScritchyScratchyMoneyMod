@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ScritchyScratchyMoneyMod/1.0.0": {
+        "runtime": {
+          "ScritchyScratchyMoneyMod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ScritchyScratchyMoneyMod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

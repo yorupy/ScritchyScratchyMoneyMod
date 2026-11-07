@@ -1,0 +1,12 @@
+E:\Store\CodePrjcts\ScritchyScratchyMoneyMod\obj\Release\net6.0\ScritchyScratchyMoneyMod.csproj.AssemblyReference.cache
+E:\Store\CodePrjcts\ScritchyScratchyMoneyMod\obj\Release\net6.0\ScritchyScratchyMoneyMod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Store\CodePrjcts\ScritchyScratchyMoneyMod\obj\Release\net6.0\ScritchyScratchyMoneyMod.AssemblyInfoInputs.cache
+E:\Store\CodePrjcts\ScritchyScratchyMoneyMod\obj\Release\net6.0\ScritchyScratchyMoneyMod.AssemblyInfo.cs
+E:\Store\CodePrjcts\ScritchyScratchyMoneyMod\obj\Release\net6.0\ScritchyScratchyMoneyMod.csproj.CoreCompileInputs.cache
+E:\Store\CodePrjcts\ScritchyScratchyMoneyMod\bin\Release\net6.0\ScritchyScratchyMoneyMod.deps.json
+E:\Store\CodePrjcts\ScritchyScratchyMoneyMod\bin\Release\net6.0\ScritchyScratchyMoneyMod.dll
+E:\Store\CodePrjcts\ScritchyScratchyMoneyMod\bin\Release\net6.0\ScritchyScratchyMoneyMod.pdb
+E:\Store\CodePrjcts\ScritchyScratchyMoneyMod\obj\Release\net6.0\ScritchyScratchyMoneyMod.dll
+E:\Store\CodePrjcts\ScritchyScratchyMoneyMod\obj\Release\net6.0\refint\ScritchyScratchyMoneyMod.dll
+E:\Store\CodePrjcts\ScritchyScratchyMoneyMod\obj\Release\net6.0\ScritchyScratchyMoneyMod.pdb
+E:\Store\CodePrjcts\ScritchyScratchyMoneyMod\obj\Release\net6.0\ref\ScritchyScratchyMoneyMod.dll
